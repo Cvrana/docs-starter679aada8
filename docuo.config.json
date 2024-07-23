@@ -8,7 +8,7 @@
       "disableSwitch": false
     },
     "navbar": {
-      "title": "My project",
+      "title": "Mouse on ICP",
       "logo": {
         "light": "image/logo_light.png",
         "dark": "image/logo_dark.png"
@@ -24,7 +24,8 @@
           "label": "Homepage",
           "href": "https://www.spreading.ai"
         }
-      ]
+      ],
+      "iconRedirectUrl": "https://ibb.co.com/MZYRrvG"
     },
     "footer": {
       "logo": {
