@@ -71,7 +71,7 @@
         }
       ]
     },
-    "removeWatermark": false
+    "removeWatermark": true
   },
   "search": {
     "algolia": {
