@@ -15,15 +15,10 @@
       },
       "items": [
         {
-          "type": "docSidebar",
-          "sidebarId": "mySidebar",
-          "label": "Documentation"
+          "type": "doc",
+          "Id": "documentation/janda.mdx",
+          "label": "janda"
         },
-        {
-          "type": "default",
-          "label": "Homepage",
-          "href": "https://www.spreading.ai"
-        }
       ],
       "iconRedirectUrl": "https://ibb.co.com/MZYRrvG"
     },
