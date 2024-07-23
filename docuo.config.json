@@ -10,8 +10,8 @@
     "navbar": {
       "title": "Mouse on ICP",
       "logo": {
-        "light": "image/logo_light.png",
-        "dark": "image/logo_dark.png"
+        "dark": "https://media-resource.spreading.io/docuo/workspace728/dd5531177f5e4d8085a525747e1388db/navbar_dark_logo.jpg?ts=1721699167616",
+        "light": "https://media-resource.spreading.io/docuo/workspace728/dd5531177f5e4d8085a525747e1388db/navbar_light_logo.jpg?ts=1721699158242"
       },
       "items": [
         {
