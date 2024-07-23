@@ -48,8 +48,8 @@
           "href": "https://github.com/spreadingai"
         }
       ]
-        }
-    "removeWatermark": false
+        
+    "removeWatermark": true
         }
   "search": {
     "algolia": {
