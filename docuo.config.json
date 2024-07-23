@@ -29,10 +29,10 @@
     },
     "footer": {
       "logo": {
-        "light": "image/logo_light.png",
-        "dark": "image/logo_dark.png"
+        "dark": "https://media-resource.spreading.io/docuo/workspace728/dd5531177f5e4d8085a525747e1388db/footer_dark_logo.jpg?ts=1721699062461",
+        "light": "https://media-resource.spreading.io/docuo/workspace728/dd5531177f5e4d8085a525747e1388db/footer_light_logo.jpg?ts=1721699050038"
       },
-      "caption": "My project",
+      "caption": "Mouse On ICP",
       "links": [
         {
           "title": "Product",
