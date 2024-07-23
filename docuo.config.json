@@ -50,7 +50,7 @@
       ]
         }
     "removeWatermark": false
-  },
+        }
   "search": {
     "algolia": {
       "appId": "YOUR_APP_ID",
